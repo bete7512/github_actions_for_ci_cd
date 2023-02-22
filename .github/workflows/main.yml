@@ -24,8 +24,8 @@ jobs:
         run: npm install
       # - name: Run tests
       #   run: npm test
-      - name: run
-        run: npm run dev
+      # - name: lint
+        # run: npm run dev
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
