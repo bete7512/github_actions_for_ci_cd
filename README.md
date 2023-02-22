@@ -1,2 +1,2 @@
-# github_actions_for_ci_cd
+# Github Actions For CI/CD
 this repository created for trainig purpose of CI/CD
